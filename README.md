@@ -123,4 +123,5 @@ SSH kalitidan foydalanish
 
 
 # E'tibor uchun raxmat
-> savollar bo'lsa [Telegram](https://t.me/TrustCoder_Uzbek) dan yozishingiz mumkin
+> savollar bo'lsa [Telegram](https://t.me/foydamizteg_sin) dan yozishingiz mumkin
+> Manba [BunyodIsmailov]([https://t.me/foydamizteg_sin](https://github.com/BunyodIsmailov/BunyodIsmailov-Git-o-rnatish-va-loyihani-yuklash)
