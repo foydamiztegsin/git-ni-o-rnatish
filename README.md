@@ -118,6 +118,7 @@ SSH kalitidan foydalanish
 
 ![dam](images/standart.png)
 
+# __Sozlamalar tayyor__
 <hr>
 <hr>
 
