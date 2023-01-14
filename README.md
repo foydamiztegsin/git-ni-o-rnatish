@@ -3,7 +3,7 @@
 
 # __Birinchi bosqich__
 > *Git*-ni o'rnatilganmi yoki yuqmi tekshirish
-- ПУСК+R knoplarini bosish orqali  kichik bir oyna ochiladi
+- ПУСК+R knoplarini bosish orqali kichik bir oyna ochiladi
 
 ![ПУСК+R](images/pusk.jpg)
 
